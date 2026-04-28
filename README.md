@@ -3,8 +3,8 @@
 This repository contains **all experiments related to Semester 6**.
 
 ## Student Details
-- **Name:** Palisetty Sanjay Kumar  
-- **UID:** 23BIS70018  
+- **Name:** Ankush Thakur 
+- **UID:** 23BIS70012 
 - **Section:** 23BIS-1A
 - **Subject:** Full Stack II
 
